@@ -1,0 +1,95 @@
+{
+  "personas": [
+    {
+      "nombre": "Juan",
+      "deportes": 2,
+      "musica": 1,
+      "espectaculos": 3,
+      "ciencia": 2
+    },
+    {
+      "nombre": "Maxi",
+      "deportes": 4,
+      "musica": 2,
+      "espectaculos": 5,
+      "ciencia": 1
+    },
+    {
+      "nombre": "Martin",
+      "deportes": 2,
+      "musica": 4,
+      "espectaculos": 4,
+      "ciencia": 4
+    },
+    {
+      "nombre": "Ale",
+      "deportes": 1,
+      "musica": 5,
+      "espectaculos": 5,
+      "ciencia": 5
+    },
+    {
+      "nombre": "Fer",
+      "deportes": 3,
+      "musica": 2,
+      "espectaculos": 5,
+      "ciencia": 3
+    },
+    {
+      "nombre": "Franco",
+      "deportes": 3,
+      "musica": 2,
+      "espectaculos": 1,
+      "ciencia": 4
+    },
+    {
+      "nombre": "Sabrina",
+      "deportes": 5,
+      "musica": 3,
+      "espectaculos": 1,
+      "ciencia": 2
+    },
+    {
+      "nombre": "Pehuen",
+      "deportes": 4,
+      "musica": 4,
+      "espectaculos": 1,
+      "ciencia": 5
+    },
+    {
+      "nombre": "Cami",
+      "deportes": 3,
+      "musica": 3,
+      "espectaculos": 3,
+      "ciencia": 3
+    },
+    {
+      "nombre": "Lucas",
+      "deportes": 4,
+      "musica": 1,
+      "espectaculos": 5,
+      "ciencia": 3
+    },
+    {
+      "nombre": "Ignacio",
+      "deportes": 2,
+      "musica": 4,
+      "espectaculos": 5,
+      "ciencia": 5
+    },
+    {
+      "nombre": "Mati",
+      "deportes": 5,
+      "musica": 2,
+      "espectaculos": 1,
+      "ciencia": 2
+    },
+    {
+      "nombre": "Ivan",
+      "deportes": 5,
+      "musica": 3,
+      "espectaculos": 2,
+      "ciencia": 2
+    }
+  ]
+}
